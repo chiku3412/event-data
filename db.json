@@ -1,8 +1,29 @@
 {
     "registerUser": [
-        
+        {
+            "firstName": "Chirag",
+            "lastName": "Patel",
+            "phoneNumber": "7622929068",
+            "email": "chiku@gmail.com",
+            "userName": "chiku",
+            "password": "123",
+            "id": "721b"
+          }
     ],
     "addEvent":[
-
+        {
+            "eventName":"Ring Ceremony",
+            "eventLocation":"Dil Se Re Banquat Hall",
+            "eventImg":"https://m.media-amazon.com/images/I/71Nf18wglNL.jpg",
+            "eventDescription":"Ring Ceremony Dil Se Re Banquat Hall",
+            "id":1
+        },
+        {
+            "eventName":"Birthday Party",
+            "eventLocation":"Galaxy Banquat Hall",
+            "eventImg":"https://i.ebayimg.com/images/g/IegAAOSwRq5kHZJx/s-l1200.jpg",
+            "eventDescription":"Birthday Party Galaxy Banquat Hall",
+            "id":1
+        }
     ]
 }

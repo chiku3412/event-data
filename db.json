@@ -86,7 +86,8 @@
             "lastName" : "Patel",
             "contactNumber" : "7622929068",
             "email" : "chiku@gmail.com",
-            "eventName" : "Birthday Party"
+            "eventName" : "Birthday Party",
+            "destination" : "Galaxy Hall"
         }
     ]
 }

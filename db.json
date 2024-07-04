@@ -25,5 +25,68 @@
             "eventDescription":"Birthday Party Galaxy Banquat Hall",
             "id":1
         }
+    ],
+    "galleryImage": [
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria10.jpg",
+            "id": "101"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria1.jpg",
+            "id": "102"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria2.jpg",
+            "id": "103"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria3.jpg",
+            "id": "104"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria4.jpg",
+            "id": "105"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria5.jpg",
+            "id": "106"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria6.jpg",
+            "id": "107"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria8.jpg",
+            "id": "108"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria7.jpg",
+            "id": "109"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria9.jpg",
+            "id": "110"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria11.jpg",
+            "id": "111"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria12.jpg",
+            "id": "112"
+        },
+        {
+            "eventImg":"https://primefaces.org/cdn/primeng/images/galleria/galleria13.jpg",
+            "id": "113"
+        }
+    ],
+    "contactData": [
+        {
+            "firstName" : "Chirag",
+            "lastName" : "Patel",
+            "contactNumber" : "7622929068",
+            "email" : "chiku@gmail.com",
+            "eventName" : "Birthday Party"
+        }
     ]
 }
